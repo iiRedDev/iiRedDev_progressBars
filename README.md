@@ -4,6 +4,9 @@
 
 <h1> Exigences </h1>
   VORP-Core
+  
 <h2> Installation </h2>
 
-Ajouter "ensure progressBars" dans votre fichier resources.cfg
+ajouter le dossier [iiRedDev_ProgressBars] dans le dossier resources de votre serveur.
+
+Ajouter ```ensure progressBars``` dans votre fichier resources.cfg

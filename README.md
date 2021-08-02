@@ -7,6 +7,6 @@
   
 <h2> Installation </h2>
 
-ajouter le dossier [iiRedDev_ProgressBars] dans le dossier resources de votre serveur.
+ajouter le dossier progressBars dans le dossier resources de votre serveur.
 
 Ajouter ```ensure progressBars``` dans votre fichier resources.cfg

@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=WindSong:wght@400;500&display=swap%27');
+
+@media screen and (min-width: 1090px) { 
+    #iiDark {
+        /* display: none; */
+        overflow: hidden;
+     }
+    #iiDark{
+        position:absolute;
+        top: 15px; 
+        left:870px;
+    }
+    .fond{
+        position: absolute;
+        top: 10.8px;
+        left: 8.1px;
+        width: 215px;
+        height: 215px;
+        border-radius: 50%;
+        background-color: rgba(68, 68, 68, 0.281);
+    }
+    #pourcent{
+        font-family: 'WindSong', cursive;
+        position: absolute;
+        top: 85px;
+        left: 79px;
+        font-size: 50px; 
+        font-weight:bold;
+        color: rgb(255, 255, 255);
+
+    }
+}
+/*Copyright © by iiRedDev - 2021*/
